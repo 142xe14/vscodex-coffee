@@ -7,7 +7,7 @@ let messages = [
 	'Keep going! ',
 	'Another one bites the dust!',
 	'You can do it! -Coffee',
-	'There is no life without water. Becasue water is needed to make coffee!',
+	'There is no life without water. Because water is needed to make coffee!',
 	'Coffee is my favorite way to trick myself into doing stuff.',
 	'Behind every successful person is a substantial amount of coffee.',
 	'So many idea\'s, so latte time.',
